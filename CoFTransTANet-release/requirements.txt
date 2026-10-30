@@ -1,0 +1,10 @@
+torch>=1.11
+torchvision>=0.12
+numpy>=1.21
+Pillow>=8.0
+imageio>=2.9
+opencv-python>=4.5
+tqdm>=4.60
+py-sod-metrics>=1.4
+thop>=0.1.1
+
